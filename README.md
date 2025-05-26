@@ -35,9 +35,8 @@ Com isso, o investidor pode tomar decisões mais embasadas sobre quanto investir
 
 ## Imagens
 
-## 🖼️ Exemplo da Simulação na Planilha
+![image](https://github.com/user-attachments/assets/0e5e2cbe-1c37-41c2-93f6-e593e88f0038)
 
-![Simulador de FIIs](images/planilha-simulador.png)
 
 
 
