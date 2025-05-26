@@ -32,3 +32,46 @@ Com isso, o investidor pode tomar decisões mais embasadas sobre quanto investir
 - **Visualização Mensal Detalhada**:
   - Tabela com cada mês do investimento
   - Atualização do valor investido, acumulado e dos dividendos mês a mês
+
+## Imagens
+
+
+
+
+
+##  Aprendizados
+
+Durante o desenvolvimento deste projeto, foram aplicados conceitos importantes do Excel, como:
+- Fórmulas financeiras (progressão de investimento)
+- Cálculo de juros compostos mensais
+- Funções condicionais e de preenchimento automático
+- Estruturação de dados em formato tabular
+- Formatação e organização para melhor usabilidade
+
+Além disso, foi praticado o uso do GitHub para compartilhamento e documentação de projetos técnicos.
+
+##  Como Usar
+
+1. Baixe ou abra o arquivo `Controle de FIIs.xlsx`.
+2. Insira seus dados de simulação nos campos destacados:
+   - Aporte inicial
+   - Aporte mensal
+   - Número de meses
+   - Rendimento mensal esperado (em %)
+3. A planilha calculará automaticamente os valores simulados.
+4. Veja a evolução mensal do seu investimento e dos dividendos.
+
+##  Tecnologias Utilizadas
+
+- Microsoft Excel
+- Git e GitHub
+- Markdown para documentação
+
+##  Arquivo de Referência
+
+Este projeto se baseia em conceitos apresentados no material do curso da DIO. Para referência, também foi disponibilizado um arquivo modelo chamado `Simulador_Investimentos_Fundos_Imobiliarios_Excel_Resolvido.xlsx`.
+
+
+
+Desenvolvido com 💻 por Daniel Luis Roggia
+
